@@ -1,4 +1,4 @@
-### Color Game
+# Color Game
 An example javascript project, guessing rgb color.
 ![Project Image](doc/colorGame.png)
 
